@@ -1,0 +1,33 @@
+{
+  "name": "hexo-bb",
+  "version": "0.1.9",
+  "description": "随时随地发表碎片化思想。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heson525/hexo-bb.git"
+  },
+  "dependencies": {
+    "ejs": "2.5.6"
+  },
+  "peerDependencies": {
+    "path": "^0.12.7"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "微信",
+    "动态",
+    "哔哔",
+    "说说"
+  ],
+  "author": "Heson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heson525/hexo-bb/issues"
+  },
+  "homepage": "https://github.com/heson525/hexo-bb#readme"
+}
