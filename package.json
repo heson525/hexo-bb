@@ -1,6 +1,6 @@
 {
   "name": "hexo-bb",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "随时随地发表碎片化思想。",
   "main": "index.js",
   "scripts": {

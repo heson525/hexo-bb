@@ -40,6 +40,9 @@ bb:
  appId: 你的leancloud appId
  appKey: 你的leancloud appKey
  serverURLs: https://xxxxxx #你的api地址
+ limit: 10 #显示条数
+ path: bb #路径名称 例如：https://你的域名/bb
+ content: '👉🏼此说说通过📱手机微信发出，主要记录黑石碎片化思考和动态。📑' #显示在哔哔上方,如不需要注释即可
 ```
 
 ## 💌发送消息
@@ -58,6 +61,11 @@ https://你的域名/bb/
 当前只在最新的`landscape`、`fluid`、`volantis`、`next`、`matery`、`butterfly`主题上测试过。
 
 ## 💞更新记录
+v0.1.11
+- 增加哔哔上方内容简介配置(content)
+- 增加显示数量配置(limit)
+- 增加哔哔页面路径配置(path)
+
 v0.1.10
 - 哔哔样式细节优化
 
