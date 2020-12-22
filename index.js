@@ -3,8 +3,6 @@
 var ejs = require('./node_modules/ejs');
 var path = require('path');
 
-
-
 hexo.extend.generator.register('bb', function (locals) {
 
     var contents = ejs.renderFile(path.join(__dirname, 'templates/bb.ejs'), {
